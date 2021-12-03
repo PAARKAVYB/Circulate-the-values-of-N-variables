@@ -25,3 +25,4 @@ def circulate():
 ## Output:
 ![output](./circulate.png)
 ## Result:
+Thus,circulating the n variables is successfully executed.
